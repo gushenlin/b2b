@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+# 忽略过滤器eslint检查
+src/filters/*.js
+#src/util/*.js

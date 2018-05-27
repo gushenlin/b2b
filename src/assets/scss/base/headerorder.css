@@ -1,0 +1,25 @@
+.bg {
+  width: 100%;
+  overflow: hidden;
+  border-bottom: 2px solid  #009dee; }
+  .bg .wrap {
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #999; }
+    .bg .wrap .f-logo {
+      width: 181px;
+      height: 51px;
+      float: left;
+      background: url(../../components/common/img/zy-logo-s.png) center top no-repeat;
+      background-size: 100% 100%;
+      margin: 16px 0; }
+    .bg .wrap .f-step {
+      float: right;
+      width: 353px;
+      height: 47px;
+      background: url(../../components/common/img/zy-shopstep.png) center top no-repeat;
+      background-size: 100% 100%;
+      margin-top: 12px; }
+
+/*# sourceMappingURL=headerorder.css.map */
